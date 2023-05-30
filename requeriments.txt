@@ -1,0 +1,6 @@
+pystan
+prophet
+numpy==1.22.4
+protobuf~=3.19.0
+streamlit==1.11.1
+pandas==1.4.2
