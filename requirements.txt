@@ -6,9 +6,4 @@ streamlit==1.11.1
 pandas==1.4.2
 altair
 plotly
-matplotlib.pyplot
-base64
-itertools
-json
-warnings
-holidays
+
